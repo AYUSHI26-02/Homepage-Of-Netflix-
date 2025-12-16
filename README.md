@@ -39,6 +39,7 @@ This project is a clone of the Netflix homepage. It is designed to display a var
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/ayushi-patel-71ab112b3
+- **LinkedIn:** [Ayushi Patel](https://www.linkedin.com/in/ayushi-patel2602/) 
+- **GitHub:** [AYUSHI26-02](https://github.com/AYUSHI26-02) 
 
 Thank you for visiting and using this Netflix-like homepage project!
